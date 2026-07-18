@@ -12,11 +12,11 @@ Peran Final (2 Backend – 2 Frontend – 1 Docs/Koordinasi)
 
 | Nama | Peran | Fokus File/Folder |
 | --- | --- | --- |
-| Yusuf Ariffandi | Backend – API Routes & Controllers | `backend/app/routes`, `backend/app/controllers` |
-| Rosiana Abdullah | Backend – Database & Services | `backend/database`, `backend/lib/services` |
-| Muhammad Fauzi Al Bukhari | Frontend – Routes/Pages | `frontend/app/**/page.tsx`, `layout.tsx`, `middleware.ts` |
-| Muhammad Harits Arrozzaq | Frontend – Components & lib | `frontend/components`, `frontend/lib` |
-| Angaraeni Putri Hartadi | Docs/SoT + Koordinasi | `docs/03-sot/*`, review PR, jaga konsistensi API spec ↔ backend ↔ frontend |
+| Yusuf Ariffandi | Frontend – API lib | `frontend/lib` |
+| Rosiana Abdullah | Backend – lib/Services | `backend/lib` |
+| Muhammad Fauzi Al Bukhari | Frontend – App/Routes | `frontend/app` |
+| Muhammad Harits Arrozzaq | Frontend – Components | `frontend/components` |
+| Angaraeni Putri Hartadi | Backend - App & Database | `backend/app`, `backend/database` |
 
 ## Teknologi yang Digunakan
 
