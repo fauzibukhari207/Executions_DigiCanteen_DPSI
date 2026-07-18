@@ -32,11 +32,10 @@ DigiCanteen/
 ├── backend/                # Kode server-side: API routes, integrasi Xendit, skema database
 ├── frontend/                # Aplikasi Next.js lengkap (siap dijalankan)
 ├── docs/
-│   ├── 01-wawancara-observasi/   # Data hasil wawancara & observasi
-│   ├── 02-analisis-kebutuhan/    # Problem Statement, Stakeholder, Functional Requirements
 │   └── 03-sot/                   # Source of Truth: SRS, Data Model, Database Design,
 │                                  # API Specification, IA, Design System, User Flow,
 │                                  # System Logic, Test Plan/Cases
+│ 
 └── README.md
 ```
 
@@ -80,10 +79,10 @@ https://github.com/fauzibukhari207/Executions_DigiCanteen_DPSI
 
 | Dokumen | Lokasi |
 | --- | --- |
-| Data Wawancara & Observasi | `docs/01-wawancara-observasi/` |
-| Problem Statement | `docs/02-analisis-kebutuhan/problem_statement.md` |
-| Stakeholder Analysis | `docs/02-analisis-kebutuhan/stakeholder_analysis.md` |
-| Functional Requirements | `docs/02-analisis-kebutuhan/functional_requirements.md` |
+| Data Wawancara & Observasi | `Dokumen Analisis Kebutuhan` |
+| Problem Statement | `Dokumen Analisis Kebutuhan` |
+| Stakeholder Analysis | `Dokumen Analisis Kebutuhan` |
+| Functional Requirements | `Dokumen Analisis Kebutuhan` |
 | Software Requirement Specification (SRS) | `docs/03-sot/srs.md` |
 | Database Design | `docs/03-sot/database_design.md` |
 | API Specification | `docs/03-sot/api_specification.md` |
