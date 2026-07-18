@@ -8,7 +8,7 @@ DigiCanteen menghubungkan siswa dan penjual kantin dalam satu platform: siswa da
 
 ## Anggota Tim & Pembagian Peran
 
-Peran Final (2 Backend – 2 Frontend – 1 Docs/Koordinasi)
+Peran Final (2 Backend – 3 Frontend)
 
 | Nama | Peran | Fokus File/Folder |
 | --- | --- | --- |
@@ -70,11 +70,11 @@ Database sesungguhnya (PostgreSQL) dikelola sebagai layanan terkelola oleh Supab
 
 ## URL Aplikasi yang Telah Di-deploy
 
-*(isi dengan URL deployment, mis. Vercel, setelah aplikasi di-deploy)*
+digicanteen-app-2.vercel.app
 
 ## URL Repository GitHub
 
-*(isi dengan tautan repository GitHub tim)*
+https://github.com/fauzibukhari207/Executions_DigiCanteen_DPSI
 
 ## Dokumentasi Lengkap
 
