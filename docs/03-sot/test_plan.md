@@ -6,7 +6,7 @@ Project: DigiCanteen
 
 Product: Aplikasi Pemesanan & Pembayaran Kantin Sekolah Berbasis Web
 
-Status: As-Built
+Status: Draft
 
 Last Updated: 2026-07-11
 
