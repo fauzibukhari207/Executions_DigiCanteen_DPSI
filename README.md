@@ -4,7 +4,7 @@ Aplikasi pemesanan & pembayaran kantin sekolah berbasis web, studi kasus Kantin 
 
 ## Deskripsi Singkat
 
-DigiCanteen menghubungkan siswa dan penjual kantin dalam satu platform: siswa dapat menjelajah menu, memesan sendiri atau berkelompok (Group Order), membayar non-tunai (QRIS/Saldo), mengambil pesanan di meja lewat mekanisme check-in/check-out yang memberi insentif poin, lalu memberi rating. Penjual mendapat dashboard untuk mengelola menu, memproses pesanan masuk, dan memantau pendapatan serta ulasan pelanggan. Latar belakang masalah dan tujuan solusi selengkapnya ada di `docs/02-analisis-kebutuhan/problem_statement.md`.
+DigiCanteen menghubungkan siswa dan penjual kantin dalam satu platform: siswa dapat menjelajah menu, memesan sendiri atau berkelompok (Group Order), membayar non-tunai (QRIS/Saldo), mengambil pesanan di meja lewat mekanisme check-in/check-out yang memberi insentif poin, lalu memberi rating. Penjual mendapat dashboard untuk mengelola menu, memproses pesanan masuk, dan memantau pendapatan serta ulasan pelanggan.
 
 ## Anggota Tim & Pembagian Peran
 
