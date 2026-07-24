@@ -59,10 +59,8 @@ Dokumen ini mendefinisikan spesifikasi kebutuhan fungsional dan non-fungsional u
 
 | Stakeholder | Role | Responsibility |
 | --- | --- | --- |
-| Pemilik Produk / Klien | Project Sponsor | Memberikan arahan kebutuhan bisnis dan menyetujui rilis fitur secara bertahap. |
 | Siswa | End User (Pemesan) | Memesan makanan, membayar, check-in/check-out meja, memberi rating. |
 | Penjual Kantin | End User (Pengelola) | Mengelola menu & stok, memproses pesanan masuk, memantau pendapatan dan ulasan. |
-| System Analyst | Author | Menyusun dan memperbarui dokumentasi *Source of Truth* (SoT) sebagai acuan pengembangan. |
 
 ## 1.4 Definitions
 
